@@ -9,7 +9,7 @@ I am currently studying front-end development on Noroff School of Technology and
 ![](https://github-profile-trophy.vercel.app/?username=IngridOrnum&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ## 👥 Get in touch:
-![[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ingrid Ornum) 
+![[LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/IngridOrnum) 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
