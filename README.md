@@ -22,9 +22,6 @@ Outside of technology, I have a great passion for music, climbing, and outdoor a
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=IngridOrnum&theme=rose&no-frame=false&no-bg=false&margin-w=4)
-
 ## 🤝 Get in touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ingrid-ornum) 
 
